@@ -45,11 +45,11 @@ The analysis combines **SQL querying**, **Python-based exploratory data analysis
 | **Avg. Customer Salary** | $100,090.24 | Churned users earn well |
 
 ### 🚨 Top 5 Drivers of Churn
-1. **Geography** — Germany has the highest churn (~32%) vs. France & Spain
-2. **Age** — Customers aged **35–50** churn most frequently
-3. **Product Count** — Customers with **only 1 product** churn heavily
-4. **Activity Status** — Inactive members churn 2x more than active ones
-5. **Credit Score** — "Fair" and "Poor" credit segments show elevated exits
+ 1. **Geography** — Germany has the highest churn (~32%) vs. France & Spain
+ 2. **Age** — Customers aged **35–50** churn most frequently
+ 3. **Product Count** — Customers with **only 1 product** churn heavily
+ 4. **Activity Status** — Inactive members churn 2x more than active ones
+ 5. **Credit Score** — "Fair" and "Poor" credit segments show elevated exits
 
 ---
 
@@ -63,6 +63,17 @@ The analysis combines **SQL querying**, **Python-based exploratory data analysis
 | **Database** | MySQL |
 | **Environment** | Jupyter Notebook, Anaconda |
 | **Reporting** | PDF report, Markdown |
+
+---
+
+## 📚 Skills Demonstrated
+✅ Data Wrangling — Pandas, NumPy
+✅ Exploratory Data Analysis — Statistical summaries, distributions
+✅ SQL Proficiency — Joins, CTEs, Window Functions, Views, Subqueries
+✅ Data Visualization — Seaborn, Matplotlib (donut, stacked area, line, bar)
+✅ Business Acumen — Translating data into retention strategy
+✅ Storytelling — Executive-level reporting
+✅ Reproducibility — Clean folder structure, requirements.txt
 
 ---
 
