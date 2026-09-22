@@ -59,7 +59,7 @@ The analysis combines **SQL querying**, **Python-based exploratory data analysis
 |-------|------------|
 | **Language** | Python 3.13.9, SQL |
 | **Data Manipulation** | Pandas, NumPy |
-| **Visualization** | Matplotlib, Seaborn |
+| **Visualization** | Matplotlib, Seaborn, Microsoft Power BI |
 | **Database** | MySQL |
 | **Environment** | Jupyter Notebook, Anaconda |
 | **Reporting** | PDF report, Markdown |
