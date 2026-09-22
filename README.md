@@ -4,7 +4,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.13.9-blue?style=for-the-badge&logo=python)
 ![SQL](https://img.shields.io/badge/SQL-MySQL-orange?style=for-the-badge&logo=mysql)
-[![Power BI](https://img.shields.io/badge/Power%20BI-2.157.1354.0-yellow?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
+![Power BI](https://img.shields.io/badge/Power%20BI-2.157.1354.0-yellow?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-2.3.3-green?style=for-the-badge&logo=pandas)
 ![Status](https://img.shields.io/badge/Status-Complete-success?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
