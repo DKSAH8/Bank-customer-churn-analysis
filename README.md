@@ -2,10 +2,15 @@
 
 <div align="center">
 
+![Excel](https://img.shields.io/badge/Excel-2608-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.13.9-blue?style=for-the-badge&logo=python)
 ![SQL](https://img.shields.io/badge/SQL-MySQL-orange?style=for-the-badge&logo=mysql)
 ![Power BI](https://img.shields.io/badge/Power%20BI-2.157.1354.0-yellow?style=for-the-badge&logo=powerbi&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-2.3.3-green?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-2.3.5-013243?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-2.3.3-150458?style=for-the-badge&logo=pandas)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3.10.6-blue?style=for-the-badge&logo=matplotlib)
+![Seaborn](https://img.shields.io/badge/Seaborn-0.13.2-3776AB?style=for-the-badge&logo=seaborn)
+![Scipy](https://img.shields.io/badge/SciPy-1.16.3-8CAAE6?style=for-the-badge&logo=scipy)
 ![Status](https://img.shields.io/badge/Status-Complete-success?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 
